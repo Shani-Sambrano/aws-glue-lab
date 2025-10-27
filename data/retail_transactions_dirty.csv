@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Date,Product,Amount,Quantity,Customer
+T001,2024-12-01,Laptop,$1,200.00,2,John Smith
+T002,12/03/2024,Mouse,$25.00,three,Jane Doe
+T003,04-Jan-2025,Keyboard,USD 45.50,1,Miguel Alvarez
+T004,2025-02-28,Monitor,$200,2,Mary Johnson
+T005,03/05/2025,Headphones,$80.99,1,John Smith
+T006,2025-03-06,Headphones, $80.99 ,1, John Smith
+T007,2025-03-06,Headphones, $80.99 ,1, John Smith
+T008,2025-03-07,Mouse,$25.00,2,Jane Doe
+T009,2025-03-08,Monitor,USD 199.00,2,Mary Johnson
+T010,2025-03-09,Laptop,$1,199.99,2,John Smith
